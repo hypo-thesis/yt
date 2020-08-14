@@ -14,3 +14,18 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.progress {
+
+  height: 29px;
+  background-color: #523737;
+  background-color: #39bd4f;
+}
+
+.progressContainer {
+  margin-top: 20px;
+  width: 500px;
+  height: 30px;
+  background-color: #523737;
+  border:1px solid black;
+}
